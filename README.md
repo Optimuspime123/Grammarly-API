@@ -6,15 +6,11 @@ This repository uses the unofficial grammarly api built by [@stewartmcgown](http
 
 ### Usage
 
-Live demo: [Grammarly API](https://grammarly-backend.herokuapp.com/)
+Live demo: [Grammarly API](https://grammarly-api-ananke-298ce0f3c296.herokuapp.com/)
 
 - Query the `/api/v1/check` endpoint with `?text` query parameter as following:
 
-- `https://grammarly-backend.herokuapp.com/api/v1/check?text=You'll find suggestions that can possibly help you revise a wordy sentence in an effortless manner.`
+- `https://grammarly-api-ananke-298ce0f3c296.herokuapp.com/api/v1/check?text=You'll find suggestions that can possibly help you revise a wordy sentence in an effortless manner.`
 
-### Instructions
-
-- git clone this repository to your local machine
-- cd to the cloned folder
-- Install all the required dependencies using `npm install`
-- Run the code using `npm start`
+### Note 
+forked by Optimus to run for myself.
